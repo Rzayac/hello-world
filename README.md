@@ -2,4 +2,7 @@
 hw
 Привет мир, мой первый git
 dsfvvfdsrfgvbsergserdgserggres
-sergggrhedstrjhnsertbh
+sergggdstrjhnsertbh
+
+
+а почему нету переноса строки
